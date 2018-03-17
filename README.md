@@ -1,0 +1,2 @@
+# Blockchain App with Solidity, Truffle and Ganache
+This is a demo blockchain app. It shows how to create a simple smart contract in Solidity and use Truffle and Ganache to create a working Blockchain app.
